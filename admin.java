@@ -3,7 +3,7 @@ public class admin{
         admin a = new admin();
 
         a.login("magic","magic124");
-        a.login(567,153);
+        a.login(567,152);
         
 
          
