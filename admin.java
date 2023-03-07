@@ -17,6 +17,9 @@ public class admin{
     void login(int phoneNo,int OTP){
         System.out.println("loggedin to flipkart");
     }
+    
+        
+
 
         
     }
