@@ -1,7 +1,9 @@
+import java.util.Scanner;
+
 public class conditions {
     public static void main(String args[]){
-        Student sc = new Student(System.in);
-        int age=sc.nextInt();
+        Scanner st = new Scanner(System.in);
+        int age=st.nextInt();
         if(age>18){
             System.out.println("adult");
 
