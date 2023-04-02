@@ -7,7 +7,7 @@ public class patten5 {
             
             }
          for(int j=1; j<=i; j++) {
-            System.out.println("*");
+            System.out.print("*");
          }
          System.out.println();
         }
